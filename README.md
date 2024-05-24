@@ -25,3 +25,11 @@ This Trimester Course Registration System is designed to manage student course r
 ### Persistent Storage
 - Save student, lecturer, and course data to files.
 - Load data from files for continuity.
+
+![Course Enroll](adminView.png)
+![Course Enroll](adminView2.png)
+![Course Enroll](adminView3.png)
+![Course Enroll](lecturerView.png)
+![Course Enroll](login.png)
+![Course Enroll](studentRegister.png)
+![Course Enroll](studentView.png)
