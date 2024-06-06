@@ -20,7 +20,7 @@ This Trimester Course Registration System is designed to manage student course r
 ### System Functionality
 - Users can log in, and the system recognizes their user type.
 - Maximum of 12 credits and minimum of 3 credits per trimester for students.
-- Pre-requisite courses for specific courses (e.g., CS214 & CS224, CS316).
+- Pre-requisite courses for specific courses (e.g. CS214 & CS224, CS316).
 
 ### Persistent Storage
 - Save student, lecturer, and course data to files.
